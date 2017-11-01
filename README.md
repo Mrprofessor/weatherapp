@@ -1,2 +1,3 @@
-# weatherapp
-Get weather forecast of a city
+#Weatherapp
+
+Get weather forecast before it happens
